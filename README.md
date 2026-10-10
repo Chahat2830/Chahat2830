@@ -12,7 +12,7 @@ AI/ML Engineer | Computer Vision | Deep Learning | Generative AI
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://chahat2830.github.io/-Portfolio-website/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-2E7D32?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://chahat2830.github.io/ai-portfolio-2.0/" />
   </a>
   <a href="mailto:chahtkumar1104@email.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
